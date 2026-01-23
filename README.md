@@ -52,6 +52,10 @@ Document my journey to mastering cybersecurity—learning, experimenting, and sh
 </div>
 
 ## Certifications
-CompTia Security+ and SAL1 in progress
+**CompTIA Security+**  
+`[███████-----] 70% In Progress`
+
+**SAL1**  
+`[█████-------] 50% In Progress`
 
 ## Projects
