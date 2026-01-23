@@ -45,9 +45,11 @@ To leverage my technical background and military experience in a challenging IT 
 ### Operating Systems & Labs
 <div>
     <img src="https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=kalilinux&logoColor=white" />
-    <img src="https://img.shields.io/badge/-TryHackMe-EA1C2C?&style=for-the-badge&logo=tryhackme&logoColor=white" />
+    <a href="https://tryhackme.com/p/N53/" target="_blank">
+        <img src="https://img.shields.io/badge/-TryHackMe-EA1C2C?&style=for-the-badge&logo=tryhackme&logoColor=white" />
+    </a>
+         
 </div>
-
 
 ## Certifications
 CompTia Security+ and SAL1 in progress
