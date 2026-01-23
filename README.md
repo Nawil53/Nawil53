@@ -1,9 +1,9 @@
 # Hello, I'm Nawil
 
-Disciplined and results-driven professional with a BSc in Computer Science and a PG Diploma in Military Studies & Defense Management. Over six years of military experience have honed my leadership, problem-solving, and operational management skills. Passionate about applying technical knowledge and strategic thinking to cybersecurity and IT operations.
+Someone who lives and breathes tech and computers. Super passionate about cybersecurity and ethical hacking, always diving into new stuff and leveling up my skills. Chill, curious, and constantly learning.
 
 ## Objective
-To leverage my technical background and military experience in a challenging IT or cybersecurity role, contributing to organizational security, operational efficiency, and team leadership, while continuing to develop advanced skills in technology and defense management.
+Document my journey to mastering cybersecurity—learning, experimenting, and sharing everything along the way.
 
 ## Skills
 | Skill                                                | Associated Project / Experience                 |
