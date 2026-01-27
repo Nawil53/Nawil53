@@ -9,7 +9,6 @@ Document my journey to mastering cybersecurity—learning, experimenting, and sh
 | Skill                                                | Associated Project / Experience                 |
 | ---------------------------------------------------- | ----------------------------------------------- |
 | Leadership and Team Management                       | Military Operations & Unit Leadership           |
-| Risk Assessment and Threat Analysis                  | Military Strategic Planning Exercises           |
 | Incident Response and Crisis Management              | Military Defense Drills & Simulations           |
 | Network and System Fundamentals                      | BSc Computer Science Projects                   |
 | Problem Solving & Decision Making                    | Military Operational Planning & Field Exercises |
