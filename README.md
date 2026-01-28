@@ -12,7 +12,6 @@ Document my journey to mastering cybersecurity—learning, experimenting, and sh
 | Incident Response and Crisis Management              | Military Defense Drills & Simulations           |
 | Network and System Fundamentals                      | BSc Computer Science Projects                   |
 | Problem Solving & Decision Making                    | Military Operational Planning & Field Exercises |
-| Scripting & Automation (Python, Bash)                | Personal Projects / Self-Learning               |
 | Cybersecurity Fundamentals (Networking, OS Security) | Self-Study Labs / TryHackMe Exercises           |
 
 
